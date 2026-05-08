@@ -2,3 +2,9 @@
 Artificial intelligence big data Student in Korea 🇰🇷  
 Learning AI, Backend and Cloud Engineering  
 Currently building side projects and exploring open source
+
+Python | Go | React | Docker | Linux  
+Passionate about backend systems, AI infrastructure  
+and turning ideas into real products
+
+How to reach me: rikotoyoshi@gmail.com
