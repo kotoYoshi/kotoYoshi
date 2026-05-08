@@ -2,6 +2,7 @@
 Artificial intelligence big data Student in Korea 🇰🇷  
 Learning AI, Backend and Cloud Engineering  
 Currently building side projects and exploring open source
+AI • Big Data • Cloud Engineering  
 
 Python | Go | React | Docker | Linux  
 Passionate about backend systems, AI infrastructure  
