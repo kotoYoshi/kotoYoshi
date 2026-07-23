@@ -4,7 +4,7 @@ Learning AI, Backend and Cloud Engineering
 Currently building side projects and exploring open source
 AI • Big Data • Cloud Engineering  
 
-Python | Go | Mysqul | Docker | Linux  
+Python | Go | Mysql | Docker | Linux  
 Passionate about backend systems, AI infrastructure  
 and turning ideas into real products
 
